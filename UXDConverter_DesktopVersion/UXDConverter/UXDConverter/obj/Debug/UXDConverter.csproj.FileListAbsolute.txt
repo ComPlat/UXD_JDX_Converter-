@@ -1,0 +1,19 @@
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\bin\Debug\UXDConverter.exe.config
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\bin\Debug\UXDConverter.exe
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\bin\Debug\UXDConverter.pdb
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\obj\Debug\UXDConverter.csprojAssemblyReference.cache
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\obj\Debug\UXDConverter.mainForm.resources
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\obj\Debug\UXDConverter.Properties.Resources.resources
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\obj\Debug\UXDConverter.csproj.GenerateResource.cache
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\obj\Debug\UXDConverter.csproj.CoreCompileInputs.cache
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\obj\Debug\UXDConverter.exe
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\obj\Debug\UXDConverter.pdb
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\Mehrzad\source\repos\UXDConverter\UXDConverter\obj\Debug\UXDConverter.csproj.CopyComplete
+C:\Users\Megacode\Desktop\Desktop\PROGRESS\ROUTINE JOBS\ROUTINE-JOBS\KIT\tasks\Weidler files\UXDConverter01\UXDConverter\UXDConverter\bin\Debug\UXDConverter.exe.config
+C:\Users\Megacode\Desktop\Desktop\PROGRESS\ROUTINE JOBS\ROUTINE-JOBS\KIT\tasks\Weidler files\UXDConverter01\UXDConverter\UXDConverter\obj\Debug\UXDConverter.exe
+C:\Users\Megacode\Desktop\Desktop\PROGRESS\ROUTINE JOBS\ROUTINE-JOBS\KIT\tasks\Weidler files\UXDConverter01\UXDConverter\UXDConverter\obj\Debug\UXDConverter.pdb
+C:\Users\Megacode\Desktop\Desktop\PROGRESS\ROUTINE JOBS\ROUTINE-JOBS\KIT\tasks\Weidler files\UXDConverter01\UXDConverter\UXDConverter\obj\Debug\UXDConverter.csprojResolveAssemblyReference.cache
+C:\Users\Megacode\Desktop\Desktop\PROGRESS\ROUTINE JOBS\ROUTINE-JOBS\KIT\tasks\Weidler files\UXDConverter01\UXDConverter\UXDConverter\obj\Debug\UXDConverter.mainForm.resources
+C:\Users\Megacode\Desktop\Desktop\PROGRESS\ROUTINE JOBS\ROUTINE-JOBS\KIT\tasks\Weidler files\UXDConverter01\UXDConverter\UXDConverter\obj\Debug\UXDConverter.Properties.Resources.resources
+C:\Users\Megacode\Desktop\Desktop\PROGRESS\ROUTINE JOBS\ROUTINE-JOBS\KIT\tasks\Weidler files\UXDConverter01\UXDConverter\UXDConverter\obj\Debug\UXDConverter.csproj.GenerateResource.Cache

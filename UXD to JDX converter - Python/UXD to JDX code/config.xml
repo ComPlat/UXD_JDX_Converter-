@@ -1,0 +1,12 @@
+<data>
+    <title>Spectrum</title>
+    <JCAMP>5.00 $$ c--- (0.1.0)</JCAMP>
+    <datatype>MASS SPECTRUM</datatype>
+    <dataclass>NTUPLES</dataclass>
+    <origin></origin>
+    <owner></owner>
+
+    <x-units>1/CM</x-units>
+    <y-units>COUNTS</y-units>
+    <XYPOINTS>(XY..XY)</XYPOINTS>
+</data>
